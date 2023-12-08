@@ -1,0 +1,11 @@
+{
+    "name": "cryptowatcher",
+    "version": "1.0.0",
+    "description": "Web scraping tool to calculate weekly change in Market Cap for Cryptocurrencies",
+    "manifest_version": 3,
+    "author": "Akhilesh Chandewar",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "cryptowatcher"
+    }
+}
